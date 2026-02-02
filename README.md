@@ -15,7 +15,7 @@ This project ingests a folder of **PDF/TXT documents**, performs:
 ## Folder Structure
 
 ```
-ai_engineer_solution/
+AI-Document-Intelligence-System/
   app/
     ingest.py
     classify.py
