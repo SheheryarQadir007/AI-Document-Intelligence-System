@@ -1,4 +1,4 @@
-# Local Document AI (Offline) — Technical Assessment Solution
+# Local Document AI (Offline)
 
 This project ingests a folder of **PDF/TXT documents**, performs:
 1. **Text extraction + cleaning**
